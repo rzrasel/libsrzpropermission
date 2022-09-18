@@ -1,2 +1,2 @@
 # libsrzpropermission
-Libs Rz Pro Permission.
+Libs Rz Pro Permission
